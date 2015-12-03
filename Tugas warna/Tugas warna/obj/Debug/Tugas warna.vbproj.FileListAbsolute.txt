@@ -8,3 +8,13 @@ C:\Users\faris\Documents\Visual Studio 2012\Projects\Tugas warna\Tugas warna\obj
 C:\Users\faris\Documents\Visual Studio 2012\Projects\Tugas warna\Tugas warna\obj\Debug\Tugas warna.exe
 C:\Users\faris\Documents\Visual Studio 2012\Projects\Tugas warna\Tugas warna\obj\Debug\Tugas warna.xml
 C:\Users\faris\Documents\Visual Studio 2012\Projects\Tugas warna\Tugas warna\obj\Debug\Tugas warna.pdb
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\bin\Debug\Tugas warna.exe.config
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\obj\Debug\Tugas warna.exe
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\obj\Debug\Tugas warna.xml
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\obj\Debug\Tugas warna.pdb
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\bin\Debug\Tugas warna.exe
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\bin\Debug\Tugas warna.pdb
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\bin\Debug\Tugas warna.xml
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\faris\Documents\GitHub\tugas-2015-01-achmadfaris01\Tugas warna\Tugas warna\obj\Debug\Tugas warna.vbproj.GenerateResource.Cache
